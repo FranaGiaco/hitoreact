@@ -1,0 +1,19 @@
+{
+    "name": "hito-pizzeria",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+      "dev": "vite",            // Para correr el servidor en modo desarrollo
+      "build": "vite build",    // Para crear la versión optimizada para producción
+      "preview": "vite preview" // Para previsualizar la versión ya construida
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-react": "^4.0.0",
+      "vite": "^4.0.0"
+    }
+  }
+  
